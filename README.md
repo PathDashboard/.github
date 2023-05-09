@@ -1,4 +1,4 @@
-Welcome to the [Organization Name] GitHub organization! 🎉
+Welcome to the Path-Dashboard GitHub organization! 🎉
 
 This research project at **Queen's University** 🏛️ aims to develop a user-friendly **dashboard** 🖥️ for **visualizing** 📊 and **analyzing patient data** 🧬 in the field of cancer pathology and oncology.
 
